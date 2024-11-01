@@ -1,3 +1,10 @@
+body {
+    /* Dark background to prevent burned retinas. */
+    background-color: #1f1f1f;
+    /* Light grey text color to contrast with dark background color. */
+    color: #b8b8b8;
+}
+
 .default_div {
     display: flex;
     flex-direction: column;
