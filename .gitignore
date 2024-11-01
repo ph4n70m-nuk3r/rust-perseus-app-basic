@@ -1,0 +1,5 @@
+# Rust build. ##
+dist/
+target/
+# Jetbrains IntelliJ IDEA IDE. ##
+.idea/
